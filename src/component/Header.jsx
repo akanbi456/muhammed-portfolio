@@ -140,7 +140,7 @@ const Header = () => {
               </motion.div>
               <div className="flex justify-center mt-6 space-x-4 md:justify-start">
                 <FaFacebook className="text-2xl text-violet-600 hover:text-violet-800" />
-             <a href="https://github-"><FaGithub className="text-2xl text-violet-600 hover:text-violet-800" /></a>  
+             <a href="https://github.com/akanbi456"><FaGithub className="text-2xl text-violet-600 hover:text-violet-800" /></a>  
              <a href="https://www.linkedin.com/in/akanbi-muhammed-33600a37a/">
               <FaLinkedin className="text-2xl text-violet-600 hover:text-violet-800" />
              </a> 
