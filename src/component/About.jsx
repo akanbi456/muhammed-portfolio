@@ -21,7 +21,7 @@ const About = () => {
           </h2>
           <p className="text-lg leading-relaxed text-gray-600 dark:text-gray-400">
             I'm a frontend developer with a strong passion for creating intuitive and dynamic user interfaces.
-            With over <span className="font-semibold text-violet-600">X years</span> of experience, I specialize in
+            With over <span className="font-semibold text-violet-600">1 years</span> of experience, I specialize in
             building responsive web applications using modern technologies like <span className="font-semibold">React, Next.js</span>,
             and <span className="font-semibold">Tailwind CSS</span>. I love solving complex problems and continuously
             learning new tools to improve my craft. My goal is to deliver high-quality code and exceptional
