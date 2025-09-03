@@ -30,15 +30,17 @@ const Contact = () => {
               <MapPin className="text-purple-600" size={20} />
               <span>Lagos, Nigeria</span>
             </div>
+           
             <a
-              href="https://wa.me/2348141584744"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="inline-flex items-center gap-3 px-4 py-2 text-white transition bg-purple-700 rounded hover:bg-purple-800rounded "
-            >
-              <MessageCircle size={20} />
-              Chat on WhatsApp
-            </a>
+  href="https://wa.me/2348141584744?text=Hi%20Muhammed!%20I%20found%20your%20portfolio%20and%20would%20love%20to%20connect."
+  target="_blank"
+  rel="noopener noreferrer"
+  className="inline-flex items-center gap-3 px-4 py-2 text-white transition bg-purple-700 rounded hover:bg-purple-800"
+>
+  <MessageCircle size={20} />
+  Chat on WhatsApp
+</a>
+
           </div>
 
           {/* Contact Form */}
