@@ -1,6 +1,6 @@
 import dashboard from '../../assets/dashboard.png';
-import image1 from '../../assets/image1.png';
 import html from '../../assets/html.png';
+import dasboard from '../../assets/dasboard.png';
  export const Projects = [
   {
     title: 'Responsive Landing Page',
@@ -12,9 +12,9 @@ import html from '../../assets/html.png';
   {
     title: 'Animated Portfolio UI',
     description: 'An interactive portfolio built using React, Framer Motion, and Tailwind.',
-    image: image1,
-    live: '',
-    repo: '',
+    image: dasboard,
+    live: 'https://randim.netlify.app/',
+    repo: 'https://github.com/akanbi456/dashboard',
   },
   {
     title: 'Dashboard Design',
